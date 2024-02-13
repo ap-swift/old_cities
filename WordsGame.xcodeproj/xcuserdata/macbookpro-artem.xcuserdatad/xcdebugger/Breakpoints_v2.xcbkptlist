@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5B925051-9776-467B-8814-C53ACE960E5D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B95F492-9D45-46AC-9D03-626C8E240E36"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WordsGame/ViewModel/GameViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "validate(word:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3B95F492-9D45-46AC-9D03-626C8E240E36 - 2ba8782eab73414d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WordsGame.GameViewModel.validate(word: Swift.String) -&gt; Swift.Bool"
+                  moduleName = "WordsGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro-artem/Desktop/WordsGame/WordsGame/ViewModel/GameViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "816">
+               </Location>
+               <Location
+                  uuid = "3B95F492-9D45-46AC-9D03-626C8E240E36 - 2ba8782eab73414d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WordsGame.GameViewModel.validate(word: Swift.String) -&gt; Swift.Bool"
+                  moduleName = "WordsGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro-artem/Desktop/WordsGame/WordsGame/ViewModel/GameViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "408">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D9A7F74-2D7D-44EA-8B22-BED34216C6B9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WordsGame/ViewModel/GameViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "validate(word:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4D9A7F74-2D7D-44EA-8B22-BED34216C6B9 - 2ba8782eab734ee2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WordsGame.GameViewModel.validate(word: Swift.String) -&gt; Swift.Bool"
+                  moduleName = "WordsGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro-artem/Desktop/WordsGame/WordsGame/ViewModel/GameViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "562">
+               </Location>
+               <Location
+                  uuid = "4D9A7F74-2D7D-44EA-8B22-BED34216C6B9 - 2ba8782eab734ee2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WordsGame.GameViewModel.validate(word: Swift.String) -&gt; Swift.Bool"
+                  moduleName = "WordsGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro-artem/Desktop/WordsGame/WordsGame/ViewModel/GameViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "515">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
